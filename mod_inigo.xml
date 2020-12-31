@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="3.1.0" client="site" method="upgrade">
+    <name>AIM</name>
+    <author>Inigo Romero</author>
+    <version>1.0.0</version>
+    <description>Un modulo para mejorar tu reacción con el ratón y tu punteria.</description>
+    <files>
+        <filename>mod_inigo.xml</filename>
+        <filename module="mod_inigo">mod_inigo.php</filename>
+        <filename>index.html</filename>
+        <filename>helper.php</filename>
+        <filename>tmpl/default.php</filename>
+        <filename>tmpl/index.html</filename>
+		<filename>images/0.jpg</filename>
+		<filename>images/diana.jpg</filename>
+    </files>
+    <config>
+    </config>
+</extension>
