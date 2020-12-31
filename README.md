@@ -1,5 +1,10 @@
-# ModuloParaJoomlaJuego
-Un simple juego para joomla como extensión usando PHP y JavaScript
-Basta con arrastrar o subir el ZIP como archivo en el instalador de extensiones de Joomla
-En el juego hay que clicar en el cuadrado Blanco y este se ira moviendo de lugar. Contiene un sistema de puntuaciones, que beneficia cuanto más aciertos seguidos hagas y un temporizador.
-Autor_ Iñigo Romero Aka SapoArmado contacto_ igoromero@gmail.com
+# Aim Game Extension For Joomla
+Joomla extension using PHP and JavaScript 📚
+
+⚙️ **Instalation** ⚙️<br>
+Just drag or upload the inigo_mod ZIP (contais all the code) as a file into the Joomla extensions installer
+
+🍀 **Description**🍀
+
+In the game you have to click on the White square and it will move from place to place.  
+It contains a scoring system, which benefits the more successes you make in a row and a timer.
